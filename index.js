@@ -5,4 +5,4 @@ app.get('/', (req, res) => {
     res.send('asd')
 })
 
-app.listen("https://asdasdasdzxasd.herokuapp.com/")
+app.listen(4000)
